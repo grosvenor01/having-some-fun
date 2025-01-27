@@ -56,14 +56,12 @@
     "Algiers": [
         {
             "city": "Staoueli",
-            "parameters": {
-                "pH%": 8.59,
-                "Calcaire Total": 14.40,
-                "Mat�re Organique (MO)": 4.00,
-                "Capacit� d'�change Cationique (CEC)": 0.195,
-                "Conductivit� �lectrique (CE)": null,
-                "Densit� Apparente (Da)": null
-            }
+            "pH": 8.59,
+            "Calcaire Total": 14.4,
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": 0.195,
+            "Conductivité Électrique (CE)": null,
+            "Densité Apparente (Da)": null
         },
         {
             "city": "Algiers",
@@ -112,7 +110,7 @@
                 370,
                 650
             ],
-            "Densit� Apparente (Da)": 1.65
+            "Densité Apparente (Da)": 1.65
         }
     ],
     "Blida": [
@@ -139,14 +137,12 @@
         },
         {
             "city": "Boufarik",
-            "parameters": {
-              "pH%": 7.3,
-              "Calcaire Total": 20.4,
-              "Mati�re Organique (MO)": 2.2,
-              "Capacit� d'�change Cationique (CEC)": 18.6,
-              "Conductivit� �lectrique (CE)": 1.2,
-              "Densit� Apparente (Da)": 1.4
-            }
+            "pH": 7.3,
+            "Calcaire Total": 20.4,
+            "Matière Organique (MO)": 2.2,
+            "Capacité d'Échange Cationique (CEC)": 18.6,
+            "Conductivité Électrique (CE)": 1.2,
+            "Densité Apparente (Da)": 1.4
         }
     ],
     "El Oued": [
@@ -163,7 +159,7 @@
     "Tlemcen": [
         {
             "city": "Mnghnia",
-            "pH": 6.20,
+            "pH": 6.2,
             "Calcaire Total": 13.6,
             "Matière Organique (MO)": 7.49,
             "Capacité d'Échange Cationique (CEC)": 36.5,
@@ -201,7 +197,7 @@
     "Ouargla": [
         {
             "city": "Ouargla",
-            "pH%": 7.2,
+            "pH": 7.2,
             "Calcaire Total": 23.4,
             "Matière Organique (MO)": 2.1,
             "Capacité d'Échange Cationique (CEC)": 15.6,
@@ -237,20 +233,19 @@
             "city": "Es Senia",
             "pH": 8.76,
             "Calcaire Total": 22.78,
-            "Mati�re Organique (MO)": 25.49,
-            "Capacit� d'Echange Cationique (CEC)": 26.46,
-            "Conductivit� �lectrique (CE)": 23.62,
-            "Densit� Apparente (Da)": 19.88
+            "Matière Organique (MO)": 25.49,
+            "Capacité d'Échange Cationique (CEC)": null,
+            "Conductivité Électrique (CE)": 23.62,
+            "Densité Apparente (Da)": 19.88
         },
         {
             "city": "Oran",
-            "location": "Wilaya of Oran",
             "pH": 7.5,
             "Calcaire Total": 23.1,
-            "Mati�re Organique (MO)": 2.3,
-            "Capacit� d'�change Cationique (CEC)": 15.6,
-            "Conductivit� �lectrique (CE)": 0.35,
-            "Densit� Apparente (Da)": 1.5
+            "Matière Organique (MO)": 2.3,
+            "Capacité d'Échange Cationique (CEC)": 15.6,
+            "Conductivité Électrique (CE)": 0.35,
+            "Densité Apparente (Da)": 1.5
         }
     ],
     "Tipaza": [
@@ -258,29 +253,16 @@
             "city": "Commune des Eucalyptus",
             "pH": 7.8,
             "Calcaire Total": 15.4,
-            "Mati�re Organique (MO)": 2.1,
-            "Capacit� d'�change Cationique (CEC)": 20.5,
-            "Conductivit� �lectrique (CE)": 0.45,
-            "Densit� Apparente (Da)": 1.35
-        }
-    ],
-    "Cheliff": [
-        {
-            "city": "Cheliff",
-            "location": "Wilaya of Cheliff, Algeria",
-            "pH": null,
-            "Calcaire Total": null,
-            "Matière Organique (MO)": null,
-            "Capacité d'Échange Cationique (CEC)": null,
-            "Conductivité Électrique (CE)": null,
-            "Densité Apparente (Da)": null
+            "Matière Organique (MO)": 2.1,
+            "Capacité d'Échange Cationique (CEC)": 20.5,
+            "Conductivité Électrique (CE)": 0.45,
+            "Densité Apparente (Da)": 1.35
         }
     ],
     "Mitidja": [
         {
             "city": "Mitidja",
-            "location": "Mitidja, Tipaza, Algeria",
-            "pH%": 7.5,
+            "pH": 7.5,
             "Calcaire Total": 30,
             "Matière Organique (MO)": 2,
             "Capacité d'Échange Cationique (CEC)": 20,
@@ -302,16 +284,15 @@
     "Sidi Bel Abbes": [
         {
             "city": "Sidi Bel Abbes",
-            "location": "Wilaya of Sidi Bel Abbes, Algeria",
             "pH": {
-                "mean": 8.20,
+                "mean": 8.2,
                 "min": 7.74,
-                "max": 9.40
+                "max": 9.4
             },
             "Calcaire Total": [],
             "Matière Organique (MO)": {
                 "max": 4.52,
-                "percentile_75": 2.10,
+                "percentile_75": 2.1,
                 "percentile_25": 1.44
             },
             "Capacité d'Échange Cationique (CEC)": {
@@ -331,7 +312,6 @@
     "Biskra": [
         {
             "city": "Tolga",
-            "location": "Biskra",
             "pH": 7.8,
             "Calcaire Total": 35.6,
             "Matière Organique (MO)": 2.5,
@@ -341,7 +321,6 @@
         },
         {
             "city": "El Hadjeb",
-            "location": "Biskra",
             "pH": 7.5,
             "Calcaire Total": 29.4,
             "Matière Organique (MO)": 2.2,
@@ -351,7 +330,6 @@
         },
         {
             "city": "Zeribet El Oued",
-            "location": "Biskra",
             "pH": 7.9,
             "Calcaire Total": 31.8,
             "Matière Organique (MO)": 2.8,
@@ -361,7 +339,6 @@
         },
         {
             "city": "El Outaya",
-            "location": "Batna",
             "pH": 7.4,
             "Calcaire Total": 26.9,
             "Matière Organique (MO)": 2.1,
@@ -371,7 +348,6 @@
         },
         {
             "city": "M'ziraa",
-            "location": "Ghardaïa",
             "pH": 7.7,
             "Calcaire Total": 33.2,
             "Matière Organique (MO)": 2.6,
@@ -381,7 +357,6 @@
         },
         {
             "city": "Doucen",
-            "location": "Batna",
             "pH": 7.6,
             "Calcaire Total": 30.5,
             "Matière Organique (MO)": 2.4,
@@ -411,8 +386,7 @@
         },
         {
             "city": "Khenchela",
-            "location": "Wilaya de Khenchela",
-            "pH%": 7.9,
+            "pH": 7.9,
             "Calcaire Total": 25.6,
             "Matière Organique (MO)": 2.14,
             "Capacité d'Échange Cationique (CEC)": 16.4,
@@ -469,307 +443,362 @@
             "city": "Constantine",
             "pH": 7.2,
             "Calcaire Total": 20,
-            "Mati�re Organique (MO)": 3.5,
-            "Capacit� d'�change Cationique (CEC)": 15,
-            "Conductivit� �lectrique (CE)": 0.2,
-            "Densit� Apparente (Da)": 1.5
+            "Matière Organique (MO)": 3.5,
+            "Capacité d'Échange Cationique (CEC)": 15,
+            "Conductivité Électrique (CE)": 0.2,
+            "Densité Apparente (Da)": 1.5
         }
     ],
     "Setif": [
         {
             "city": "Mezloug",
-            "parameters": {
-              "pH%": "8.5-8.9",
-              "Calcaire Total": ">35% (A), >60% (Bkm and Bwk), >80% (Bkm), >83% (Bkkm)",
-              "Mati�re Organique (MO)": "<1%",
-              "Capacit� d'�change Cationique (CEC)": "7-10 cmol+/Kg",
-              "Conductivit� �lectrique (CE)": "<2 dS/m",
-              "Densit� Apparente (Da)": "Not provided"
-            }
+            "pH": "8.5-8.9",
+            "Calcaire Total": ">35% (A), >60% (Bkm and Bwk), >80% (Bkm), >83% (Bkkm)",
+            "Matière Organique (MO)": "<1%",
+            "Capacité d'Échange Cationique (CEC)": "7-10 cmol+/Kg",
+            "Conductivité Électrique (CE)": "<2 dS/m",
+            "Densité Apparente (Da)": "Not provided"
         },
         {
             "city": "Setif",
-            "parameters": {
-                "pH": 8.2,
-                "Calcaire Total": 25,
-                "Mati�re Organique (MO)": 2.5,
-                "Capacit� d'�change Cationique (CEC)": 20,
-                "Conductivit� �lectrique (CE)": 250,
-                "Densit� Apparente (Da)": 1.5
-            }
+            "pH": 8.2,
+            "Calcaire Total": 25,
+            "Matière Organique (MO)": 2.5,
+            "Capacité d'Échange Cationique (CEC)": 20,
+            "Conductivité Électrique (CE)": 250,
+            "Densité Apparente (Da)": 1.5
         }
     ],
     "Guelma": [
         {
+            "city": "Guelma",
             "pH": 8.34,
             "Calcaire Total": 41.87,
-            "Mati�re Organique (MO)": 1.45,
-            "Capacit� d'�change Cationique (CEC)": 15.67,
-            "Conductivit� �lectrique (CE)": 1.23,
-            "Densit� Apparente (Da)": 1.35,
-            "city": "Guelma"
+            "Matière Organique (MO)": 1.45,
+            "Capacité d'Échange Cationique (CEC)": 15.67,
+            "Conductivité Électrique (CE)": 1.23,
+            "Densité Apparente (Da)": 1.35
         }
     ],
     "Boumerdes": [
         {
             "city": "Boumerdes",
-            "pH%": 8.23,
+            "pH": 8.23,
             "Calcaire Total": 21.6,
-            "Mati�re Organique (MO)": 2.14,
-            "Capacit� d'�change Cationique (CEC)": 14.8,
-            "Conductivit� �lectrique (CE)": 0.55,
-            "Densit� Apparente (Da)": 1.34
+            "Matière Organique (MO)": 2.14,
+            "Capacité d'Échange Cationique (CEC)": 14.8,
+            "Conductivité Électrique (CE)": 0.55,
+            "Densité Apparente (Da)": 1.34
         }
     ],
     "Relizane": [
         {
-            "location": "Relizane",
-            "parameters": {
-                "pH": [
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5,
-                    8.5
-                ],
-                "Calcaire Total": [
-                    182.02,
-                    249,
-                    241,
-                    250,
-                    158.64,
-                    743.46,
-                    747.22,
-                    752.6
-                ],
-                "Mati�re Organique (MO)": [
-                    15.50,
-                    16.50,
-                    31.00,
-                    33.00,
-                    28.05,
-                    31.50,
-                    21.00,
-                    20.00,
-                    43.03,
-                    24.00
-                ],
-                "Capacit� d'�change Cationique (CEC)": [
-                    1860,
-                    908,
-                    2790,
-                    1815,
-                    3086,
-                    1134,
-                    735,
-                    1000,
-                    3012,
-                    3792
-                ],
-                "Conductivit� �lectrique (CE)": [
-                    743.46,
-                    158.64,
-                    747.22,
-                    159.04,
-                    752.6,
-                    159.7
-                ],
-                "Densit� Apparente (Da)": [
-                    70,
-                    60,
-                    55,
-                    55,
-                    110,
-                    36,
-                    35,
-                    50,
-                    70,
-                    158
-                ]
-            }
+            "city": "Relizane",
+            "pH": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5
+            ],
+            "Calcaire Total": [
+                182.02,
+                249,
+                241,
+                250,
+                158.64,
+                743.46,
+                747.22,
+                752.6
+            ],
+            "Matière Organique (MO)": [
+                15.5,
+                16.5,
+                31.0,
+                33.0,
+                28.05,
+                31.5,
+                21.0,
+                20.0,
+                43.03,
+                24.0
+            ],
+            "Capacité d'Échange Cationique (CEC)": [
+                1860,
+                908,
+                2790,
+                1815,
+                3086,
+                1134,
+                735,
+                1000,
+                3012,
+                3792
+            ],
+            "Conductivité Électrique (CE)": [
+                743.46,
+                158.64,
+                747.22,
+                159.04,
+                752.6,
+                159.7
+            ],
+            "Densité Apparente (Da)": [
+                70,
+                60,
+                55,
+                55,
+                110,
+                36,
+                35,
+                50,
+                70,
+                158
+            ]
         }
     ],
-    "Bousaada":[
+    "Bousaada": [
         {
             "city": "Boussaada",
             "pH": 7.5,
             "Calcaire Total": 20,
-            "Mati�re Organique (MO)": 5,
-            "Capacit� d'�change Cationique (CEC)": 15,
-            "Conductivit� �lectrique (CE)": 200,
-            "Densit� Apparente (Da)": 1.5
+            "Matière Organique (MO)": 5,
+            "Capacité d'Échange Cationique (CEC)": 15,
+            "Conductivité Électrique (CE)": 200,
+            "Densité Apparente (Da)": 1.5
         }
     ],
-    "Tiaret":[
+    "Tiaret": [
         {
             "city": "Tiaret",
             "pH": 7.5,
             "Calcaire Total": 35,
-            "Mati�re Organique (MO)": 2.5,
-            "Capacit� d'�change Cationique (CEC)": 20,
-            "Conductivit� �lectrique (CE)": 2.5,
-            "Densit� Apparente (Da)": 1.5
-          }
+            "Matière Organique (MO)": 2.5,
+            "Capacité d'Échange Cationique (CEC)": 20,
+            "Conductivité Électrique (CE)": 2.5,
+            "Densité Apparente (Da)": 1.5
+        }
     ],
-    "Medea":[
+    "Medea": [
         {
+            "city": "Medea",
             "pH": 8.5,
             "Calcaire Total": 25,
-            "Mati�re Organique (MO)": 3.5,
-            "Capacit� d'�change Cationique (CEC)": 20,
-            "Conductivit� �lectrique (CE)": 0.5,
-            "Densit� Apparente (Da)": 1.2,
-            "city": "Medea"
-          }
+            "Matière Organique (MO)": 3.5,
+            "Capacité d'Échange Cationique (CEC)": 20,
+            "Conductivité Électrique (CE)": 0.5,
+            "Densité Apparente (Da)": 1.2
+        }
     ],
-    "Chlef":[
+    "Chlef": [
         {
+            "city": "Chlef",
             "pH": [
-              7.27, 7.46, 7.48, 7.38, 7.55, 7.46, 7.33, 7.51, 7.38, 7.28, 7.49, 7.45
-            ],
-            "CE": [
-              3.12, 4.54, 5.23, 3.57, 5.55, 8.37, 4.14, 5.80, 7.71, 3.65, 5.28, 7.17
-            ],
-            "CEC": [
-              15.33, 15.55, 15.55, 3.20, 16.67, 15.10, 14.21, 16.45, 13.98, 15.55, 14.21, 5.44
+                7.27,
+                7.46,
+                7.48,
+                7.38,
+                7.55,
+                7.46,
+                7.33,
+                7.51,
+                7.38,
+                7.28,
+                7.49,
+                7.45
             ],
             "Calcaire Total": [
-              16.08, 14.30, 16.59, 14.86, 14.30, 15.06, 15.88, 15.62, 16.59, 14.96, 15.98, 15.57
+                16.08,
+                14.3,
+                16.59,
+                14.86,
+                14.3,
+                15.06,
+                15.88,
+                15.62,
+                16.59,
+                14.96,
+                15.98,
+                15.57
             ],
-            "MO": [
-              2.89, 2.71, 2.69, 2.76, 2.68, 2.36, 2.85, 2.94, 2.56, 2.62, 2.69, 2.82
-            ],
-            "Da": [
-              1.27, 1.43, 1.44, 1.27, 1.49, 1.42, 1.28, 1.47, 1.46, 1.25, 1.39, 1.55
-            ],
-            "city": "Chlef"
-          }
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": null,
+            "Conductivité Électrique (CE)": null,
+            "Densité Apparente (Da)": null
+        }
     ],
-    "Souk-Ahras":[
+    "Souk-Ahras": [
         {
+            "city": "Souk-Ahras",
             "pH": 7.5,
             "Calcaire Total": 250,
-            "Mati�re Organique (MO)": 2.5,
-            "Capacit� d'�change Cationique (CEC)": 15,
-            "Conductivit� �lectrique (CE)": 0.5,
-            "Densit� Apparente (Da)": 1.6,
-            "city": "Souk-Ahras"
-          }
+            "Matière Organique (MO)": 2.5,
+            "Capacité d'Échange Cationique (CEC)": 15,
+            "Conductivité Électrique (CE)": 0.5,
+            "Densité Apparente (Da)": 1.6
+        }
     ],
-    "Rouiba":[
+    "Rouiba": [
         {
             "city": "Rouiba",
-            "pH%": 7.5,
+            "pH": 7.5,
             "Calcaire Total": 20.3,
-            "Mati�re Organique (MO)": 4.2,
-            "Capacit� d'�change Cationique (CEC)": 15.6,
-            "Conductivit� �lectrique (CE)": 0.8,
-            "Densit� Apparente (Da)": 1.3
-          }
-    ],
-    "Bechar":[
-        {
-            "location": "Wilaya de B�char, Algeria",
-            "parameters": {
-                "pH": 7.8,
-                "Calcaire Total": 23.1,
-                "Mati�re Organique (MO)": 2.5,
-                "Capacit� d'�change Cationique (CEC)": 15.6,
-                "Conductivit� �lectrique (CE)": 0.38,
-                "Densit� Apparente (Da)": 1.45
-            }
+            "Matière Organique (MO)": 4.2,
+            "Capacité d'Échange Cationique (CEC)": 15.6,
+            "Conductivité Électrique (CE)": 0.8,
+            "Densité Apparente (Da)": 1.3
         }
     ],
-    "Annaba":[
+    "Bechar": [
         {
-            "Location": "Annaba",
-            "Parameters": {
-              "pH": 7.3,
-              "Calcaire Total": 23.5,
-              "Mati�re Organique (MO)": 1.8,
-              "Capacit� d'�change Cationique (CEC)": 15.2,
-              "Conductivit� �lectrique (CE)": 2.5,
-              "Densit� Apparente (Da)": 1.35
-            }
+            "city": "Bechar",
+            "pH": 7.8,
+            "Calcaire Total": 23.1,
+            "Matière Organique (MO)": 2.5,
+            "Capacité d'Échange Cationique (CEC)": 15.6,
+            "Conductivité Électrique (CE)": 0.38,
+            "Densité Apparente (Da)": 1.45
         }
     ],
-    "EL Kala":[
+    "Annaba": [
+        {
+            "city": "Annaba",
+            "pH": 7.3,
+            "Calcaire Total": 23.5,
+            "Mati�re Organique (MO)": 1.8,
+            "Capacit� d'�change Cationique (CEC)": 15.2,
+            "Conductivit� �lectrique (CE)": 2.5,
+            "Densit� Apparente (Da)": 1.35
+        }
+    ],
+    "EL Kala": [
         {
             "city": "El-Kala",
             "pH (%)": 7.5,
             "Calcaire Total": 12.4,
-            "Mati�re Organique (MO) (%)": 4.2,
-            "Capacit� d'�change Cationique (CEC) (cmol+/kg)": 15.6,
-            "Conductivit� �lectrique (CE) (mS/cm)": 1.2,
-            "Densit� Apparente (Da) (g/cm�)": 1.5
-          }
+            "Matiére Organique (MO) (%)": 4.2,
+            "Capacité d'échange Cationique (CEC) (cmol+/kg)": 15.6,
+            "Conductivité électrique (CE) (mS/cm)": 1.2,
+            "Densité Apparente (Da) (g/cmé)": 1.5
+        }
     ],
-    "EL Tarf":[
+    "EL Tarf": [
         {
             "city": "Lac Noir",
-            "parameters": {
-              "pH": 6.4,
-              "Calcaire Total": 10,
-              "Mati�re Organique (MO)": 32.4,
-              "Capacit� d'�change Cationique (CEC)": 0.1,
-              "Conductivit� �lectrique (CE)": 0.1,
-              "Densit� Apparente (Da)": 1.8
-            }
+            "pH": 6.4,
+            "Calcaire Total": 10,
+            "Matière Organique (MO)": 32.4,
+            "Capacité d'Échange Cationique (CEC)": 0.1,
+            "Conductivité Électrique (CE)": 0.1,
+            "Densité Apparente (Da)": 1.8
         }
     ],
-    "Ghardaia":[
+    "Ghardaia": [
         {
             "city": "Ghardaia",
-            "parameters": {
-              "pH%": 7.5,
-              "Calcaire Total": 20,
-              "Mati�re Organique (MO)": 3.2,
-              "Capacit� d'�change Cationique (CEC)": 15.6,
-              "Conductivit� �lectrique (CE)": 0.5,
-              "Densit� Apparente (Da)": 1.4
-            }
-          }
-    ],
-    "Djelfa":[
-        {
-          "city": "El-Mesrane",
-          "pH%": 7.46,
-          "Calcaire Total": 29.88,
-          "Mati�re Organique (MO) %": 36.23,
-          "Capacit� d'�change Cationique (CEC)": 17.14,
-          "Conductivit� �lectrique (CE)": 0.25,
-          "Densit� Apparente (Da)": 1.53
-        },
-        {
-          "city": "Zaafrane",
-          "pH%": 7.31,
-          "Calcaire Total": 29.41,
-          "Mati�re Organique (MO) %": 32.26,
-          "Capacit� d'�change Cationique (CEC)": 16.15,
-          "Conductivit� �lectrique (CE)": 0.23,
-          "Densit� Apparente (Da)": 1.52
-        },
-        {
-          "city": "Draa Youcef",
-          "pH%": 7.18,
-          "Calcaire Total": 28.25,
-          "Mati�re Organique (MO) %": 24.48,
-          "Capacit� d'�change Cationique (CEC)": 15.60,
-          "Conductivit� �lectrique (CE)": 0.21,
-          "Densit� Apparente (Da)": 1.49
-        },
-        {
-          "city": "Bir El Arbi",
-          "pH%": 7.04,
-          "Calcaire Total": 26.65,
-          "Mati�re Organique (MO) %": 15.60,
-          "Capacit� d'�change Cationique (CEC)": 14.35,
-          "Conductivit� �lectrique (CE)": 0.19,
-          "Densit� Apparente (Da)": 1.45
+            "pH": 7.5,
+            "Calcaire Total": 20,
+            "Matière Organique (MO)": 3.2,
+            "Capacité d'Échange Cationique (CEC)": 15.6,
+            "Conductivité Électrique (CE)": 0.5,
+            "Densité Apparente (Da)": 1.4
         }
-      ]
+    ],
+    "Djelfa": [
+        {
+            "city": "El-Mesrane",
+            "pH": 7.46,
+            "Calcaire Total": 29.88,
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": 17.14,
+            "Conductivité Électrique (CE)": 0.25,
+            "Densité Apparente (Da)": 1.53
+        },
+        {
+            "city": "Zaafrane",
+            "pH": 7.31,
+            "Calcaire Total": 29.41,
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": 16.15,
+            "Conductivité Électrique (CE)": 0.23,
+            "Densité Apparente (Da)": 1.52
+        },
+        {
+            "city": "Draa Youcef",
+            "pH": 7.18,
+            "Calcaire Total": 28.25,
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": 15.6,
+            "Conductivité Électrique (CE)": 0.21,
+            "Densité Apparente (Da)": 1.49
+        },
+        {
+            "city": "Bir El Arbi",
+            "pH": 7.04,
+            "Calcaire Total": 26.65,
+            "Matière Organique (MO)": null,
+            "Capacité d'Échange Cationique (CEC)": 14.35,
+            "Conductivité Électrique (CE)": 0.19,
+            "Densité Apparente (Da)": 1.45
+        }
+    ],
+    "Bejaia": [
+        {
+            "city": "Bejaia",
+            "pH%": 7.06,
+            "Calcaire Total": 17.45,
+            "Matérie Organique (MO)": 1.35,
+            "Capacité d'Echange Cationique (CEC)": 11.83,
+            "Conductivité Electrique (CE)": 0.126,
+            "Densité Apparente (Da)": 1.43
+        }
+    ],
+    "Ain Tmouchent": [
+        {
+            "city": "Ain Tmouchent",
+            "pH": 7.64,
+            "Calcaire Total": null,
+            "Matiére Organique (MO)": null,
+            "Capacité d'échange Cationique (CEC)": null,
+            "Conductivité électrique (CE)": 0.15,
+            "Densité Apparente (Da)": null
+        }
+    ],
+    "Msila": [
+        {
+            "city": "Msila",
+            "pH": 8.3,
+            "Calcaire Total": 4.82,
+            "Matière Organique (MO)": 1.42,
+            "Capacité d'Échange Cationique (CEC)": 14.3,
+            "Conductivité Électrique (CE)": 4.1,
+            "Densité Apparente (Da)": 1.65
+        }
+    ],
+    "Batna": [
+        {
+            "city": "Batna",
+            "pH": 7.5,
+            "Calcaire Total": 23,
+            "Matière Organique (MO)": 3.2,
+            "Capacité d'Échange Cationique (CEC)": 15,
+            "Conductivité Électrique (CE)": 1.2,
+            "Densité Apparente (Da)": 1.4
+        }
+    ],
+    "Mascara": [
+        {
+            "city": "Mascara",
+            "pH": 7.2,
+            "Calcaire Total (%)": 10.5,
+            "Matiére Organique (MO) (%)": 0.9,
+            "Capacité d'échange Cationique (CEC) (cmol/kg)": 12.8,
+            "Conductivité électrique (CE) (mS/cm)": 0.7,
+            "Densité Apparente (Da) (g/cm3)": 1.2
+        }
+    ]
 }

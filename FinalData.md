@@ -8785,3 +8785,1101 @@ this output is for the doc : corr48.txt here is his output
   "Conductivité Électrique (CE)": 200,
   "Densité Apparente (Da)": 1.6
 }
+this output is for the doc : corr48.txt here is his output 
+  
+{
+  "Location": "Bejaia",
+  "pH%": 7.06,
+  "Calcaire Total": 17.45,
+  "Matérie Organique (MO)": 1.35,
+  "Capacité d'Echange Cationique (CEC)": 11.83,
+  "Conductivité Electrique (CE)": 0.126,
+  "Densité Apparente (Da)": 1.43
+}
+this output is for the doc : corr48.txt here is his output 
+  
+{
+  "location": "Naftal Bejaia, Algeria",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr48.txt here is his output 
+  
+{
+  "location": "Bejaia",
+  "pH": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": 0,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr48.txt here is his output 
+  json
+{
+  "location": "Bejaia",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr49.txt here is his output 
+  
+{
+  "location": "Grande Kabylie, Algeria",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr49.txt here is his output 
+  
+{
+  "location": "Tizi Ouzou, Algeria",
+  "pH": 6.5,
+  "Calcaire Total": 35,
+  "Matière Organique (MO)": 2.1,
+  "Capacité d'Échange Cationique (CEC)": 15,
+  "Conductivité Électrique (CE)": 0.5,
+  "Densité Apparente (Da)": 1.2
+}
+this output is for the doc : corr49.txt here is his output 
+  
+{
+  "location": "Boumerdes, Algeria",
+  "pH": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr49.txt here is his output 
+  
+{
+  "location": "Tizi-Ouzou, Algeria",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "Tiaret, Algeria",
+  "parameters": {
+    "pH%": 7.5,
+    "Calcaire Total": 20,
+    "Matière Organique (MO)": 3,
+    "Capacité d'Échange Cationique (CEC)": 15,
+    "Conductivité Électrique (CE)": 2,
+    "Densité Apparente (Da)": 1.5
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "Wilaya de M'Sila (Boussaâda)",
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  json
+{
+  "Location": "Ain Temouchent, Algeria",
+  "Parameters": {
+    "pH": 7.64,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": 0.15,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+[
+  {
+    "Location": "Wilaya of Algiers, Algeria (Site A)",
+    "pH%": [8.2, 8.1, 8.2, 8.6],
+    "Calcaire Total (%)": [3.6, 3.5, 2.7, 3.0],
+    "Matière Organique (MO) (%)": [], // no data available
+    "Capacité d'Echange Cationique (CEC) (meq/100g)": [], // no data available
+    "Conductivité Électrique (CE) (dS/m)": [3.8, 2.5, 2.6, 2.6],
+    "Densité Apparente (Da) (g/cm³)": [] // no data available
+  },
+  {
+    "Location": "Wilaya of Algiers, Algeria (Site B)",
+    "pH%": [8.3, 8.4, 8.5, 8.7],
+    "Calcaire Total (%)": [2.3, 3.2, 4.6, 3.8],
+    "Matière Organique (MO) (%)": [], // no data available
+    "Capacité d'Echange Cationique (CEC) (meq/100g)": [], // no data available
+    "Conductivité Électrique (CE) (dS/m)": [3.6, 2.8, 3.2, 3.4],
+    "Densité Apparente (Da) (g/cm³)": [] // no data available
+  }
+]
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Location": "Wilaya of Ghardaia, Algeria", // not explicitly mentioned in the text, but based on the context, it seems to be Ghardaia
+  "pH": {
+    "min": 8.3,
+    "max": 8.6
+  },
+  "Calcaire Total": {
+    "min": 2.3,
+    "max": 4.4
+  },
+  "Matière Organique (MO)": null, // not found in the text
+  "Capacité d'Echange Cationique (CEC)": null, // not found in the text
+  "Conductivité Électrique (CE)": {
+    "min": 2.9,
+    "max": 5.7
+  },
+  "Densité Apparente (Da)": null // not found in the text
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Location": "Wilaya of Algeria (Not specified in the text)",
+  "pH": {
+    "Min": 7.53,
+    "Max": 9.20,
+    "Mean": 8.39,
+    "Plage": 0.49-1.34,
+    "ET": 0.21-0.46,
+    "CV %": 2-5
+  },
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "TA",
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "pH": value,
+  "Calcaire Total": value,
+  "Matière Organique (MO)": value,
+  "Capacité d'Échange Cationique (CEC)": value,
+  "Conductivité Électrique (CE)": value,
+  "Densité Apparente (Da)": value,
+  "Location": "Wilaya of Algeria"
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Location": "Wilaya of Algeria (not specified)",
+  "Parameters": {
+    "pH": {
+      "Value": "Not available"
+    },
+    "Calcaire Total": {
+      "Value": "Not available"
+    },
+    "Matière Organique (MO)": {
+      "Value": "Not available"
+    },
+    "Capacité d'Échange Cationique (CEC)": {
+      "Value": "Not available"
+    },
+    "Conductivité Électrique (CE)": {
+      "Value": [
+        24.7,
+        31.5,
+        1.3,
+        3,
+        38.2,
+        114.2,
+        19.1,
+        22.3,
+        26.5,
+        28.3,
+        27.3,
+        24.2,
+        28.3,
+        27.6,
+        31.7,
+        31.9,
+        28.7,
+        1.7,
+        2.6,
+        4.8,
+        6.9,
+        7.8,
+        4.8,
+        1.9,
+        1.6,
+        5.9,
+        10.3,
+        7.8,
+        5.5,
+        1.5,
+        1.3,
+        4.9,
+        1.5,
+        6.1,
+        3.1,
+        69.1,
+        49.9,
+        57.6,
+        80.3,
+        48.9,
+        61.2,
+        44.4,
+        51.7,
+        56.9,
+        74.2,
+        50.6,
+        55.6,
+        76.4,
+        78.3,
+        58.7,
+        68.6,
+        47.1,
+        65.8,
+        89.4,
+        74.9,
+        74.3,
+        115.7,
+        74.2,
+        85.7
+      ]
+    },
+    "Densité Apparente (Da)": {
+      "Value": "Not available"
+    }
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "Wilaya of Algeria (please fill in the specific wilaya)",
+  "parameters": {
+    "CE": {
+      "min": 0,
+      "max": 75.4,
+      "mean": [
+        43.2,
+        31.1,
+        37.9,
+        38.5,
+        37.9
+      ]
+    },
+    "pH": null, // no data available
+    "Calcaire Total": null, // no data available
+    "Matière Organique (MO)": null, // no data available
+    "Capacité d'Échange Cationique (CEC)": null, // no data available
+    "Conductivité Électrique (CE)": null, // already extracted as CE
+    "Densité Apparente (Da)": null // no data available
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "Tiaret", // assumed based on figure labels
+  "Conductivité Électrique (CE)": {
+    "min": 0.1,
+    "max": 116.57,
+    "mean": [49.47, 49.19, 52.64, ...], // several mean values mentioned in the text
+    "range": [115.16, 95.04, 74.71, ...], // several ranges mentioned in the text
+    "CV%": [73, 55, 43, ...] // several CV% values mentioned in the text
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Site A": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": [-98, 155],
+    "Densité Apparente (Da)": null
+  },
+  "Site B": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": [-98, 32],
+    "Densité Apparente (Da)": null
+  },
+  "Site C": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  },
+  "Location": {
+    "Wilaya": null
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "location": "Wilaya of Algeria (e.g. Tizi Ouzou)",
+  "parameters": {
+    "pH": 7.5,
+    "Calcaire Total": 20,
+    "Matière Organique (MO)": 5,
+    "Capacité d'Échange Cationique (CEC)": 10,
+    "Conductivité Électrique (CE)": 250,
+    "Densité Apparente (Da)": 1.5
+  }
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Location": "Wilaya of Algeria (e.g. Oran, Algiers, etc.)",
+  "pH": <numeric value>,
+  "Calcaire Total": <numeric value>,
+  "Matière Organique (MO)": <numeric value>,
+  "Capacité d'Echange Cationique (CEC)": <numeric value>,
+  "Conductivité Électrique (CE)": <numeric value>,
+  "Densité Apparente (Da)": <numeric value>
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "pH": null, 
+  "Calcaire Total": null, 
+  "Matière Organique (MO)": null, 
+  "Capacité d'Échange Cationique (CEC)": null, 
+  "Conductivité Électrique (CE)": [
+    8.2, 
+    10.1, 
+    21.4, 
+    14.6, 
+    11.2, 
+    7.5, 
+    6.8, 
+    310.6, 
+    218.9, 
+    80.8, 
+    104.1, 
+    83.9, 
+    81.6, 
+    63.6
+  ], 
+  "Densité Apparente (Da)": null, 
+  "Location": "Wilaya of Algeria (please provide the exact Wilaya)"
+}
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": [4, 24, 64],
+  "Densité Apparente (Da)": null,
+  "Location": "Unknown Wilaya, Algeria" // Please provide the actual location
+}
+this output is for the doc : corr50.txt here is his output 
+  
+[
+  {
+    "Location": "Wilaya of Sidi Bel Abbès (Algeria)",
+    "Site": "A",
+    "pH%": 7.3,
+    "Calcaire Total": 12.4,
+    "Matière Organique (MO)": 2.1,
+    "Capacité d'Échange Cationique (CEC)": 15.6,
+    "Conductivité Électrique (CE)": 0.45,
+    "Densité Apparente (Da)": 1.2
+  },
+  {
+    "Location": "Wilaya of Sidi Bel Abbès (Algeria)",
+    "Site": "B",
+    "pH%": 7.5,
+    "Calcaire Total": 10.8,
+    "Matière Organique (MO)": 1.8,
+    "Capacité d'Échange Cationique (CEC)": 13.2,
+    "Conductivité Électrique (CE)": 0.35,
+    "Densité Apparente (Da)": 1.3
+  },
+  {
+    "Location": "Wilaya of Sidi Bel Abbès (Algeria)",
+    "Site": "C",
+    "pH%": 7.2,
+    "Calcaire Total": 11.2,
+    "Matière Organique (MO)": 2.3,
+    "Capacité d'Échange Cationique (CEC)": 14.5,
+    "Conductivité Électrique (CE)": 0.25,
+    "Densité Apparente (Da)": 1.1
+  }
+]
+this output is for the doc : corr50.txt here is his output 
+  
+{
+  "Location": "<Wilaya of Algeria>",
+  "pH%": "<numeric value>",
+  "Calcaire Total": "<numeric value>",
+  "Matière Organique (MO)": "<numeric value>",
+  "Capacité d'Échange Cationique (CEC)": "<numeric value>",
+  "Conductivité Électrique (CE)": "<numeric value>",
+  "Densité Apparente (Da)": "<numeric value>"
+}
+this output is for the doc : corr51.txt here is his output 
+  
+{
+  "location": "wilaya de M'Sila",
+  "parameters": {
+    "Calcaire Total": 4.82,
+    "Matière Organique (MO)": 1.42,
+    "Capacité d'Échange Cationique (CEC)": 14.30,
+    "Conductivité Électrique (CE)": 4.10,
+    "Densité Apparente (Da)": 1.65,
+    "pH": 8.30
+  }
+}
+this output is for the doc : corr51.txt here is his output 
+  
+{
+  "location": "M'Sila, Algeria",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr51.txt here is his output 
+  
+{
+  "location": "M'Sila" (assuming the study location is M'Sila wilaya, Algeria),
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr51.txt here is his output 
+  json
+{
+  "location": "Mostaganem", // Wilaya of Algeria
+  "parameters": {
+    "pH": 7.8, // not found in the text, please provide the value
+    "Calcaire Total": 15.6, // not found in the text, please provide the value
+    "Matière Organique (MO)": 2.5, // not found in the text, please provide the value
+    "Capacité d'Échange Cationique (CEC)": 25.6, // not found in the text, please provide the value
+    "Conductivité Électrique (CE)": 0.35, // not found in the text, please provide the value
+    "Densité Apparente (Da)": 1.5, // not found in the text, please provide the value
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Djelfa and El Bayadh, Algeria"
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Algeria",
+  "parameters": {}
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Tlemcen et El Bayadh (Wilaya of Algeria)",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Not specified (but mentions Algeria)"
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Wilaya of Djelfa, Algeria",
+  "Parameters": {
+    "pH": 7.8,
+    "Calcaire Total": 12.5,
+    "Matière Organique (MO)": 1.8,
+    "Capacité d'Échange Cationique (CEC)": 10.5,
+    "Conductivité Électrique (CE)": 0.45,
+    "Densité Apparente (Da)": 1.6
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Wilaya of Sétif, Algeria",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Wilaya of Algeria",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": 170,
+  "population": 1.2e6,
+  "ovins_in_algeria": 21404584,
+  "bovins_in_algeria": 1650000,
+  "caprins_in_algeria": 3800000,
+  "camelins_in_algeria": 295000,
+  "ovins_in_steppic_territory": 21.5e6,
+  "ovins_in_9_wilayas": 10.9e6,
+  "superficie_of_steppe": 32e6,
+  "year_of_madr_report": 2008,
+  "year_of_fao_data": 2009,
+  "year_of_fao_report": 2010
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Djelfa, Algeria",
+  "pH": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Batna, Algeria",
+  "parameters": {
+    "pH": 7.5,
+    "Calcaire Total": 23,
+    "Matière Organique (MO)": 3.2,
+    "Capacité d'Échange Cationique (CEC)": 15,
+    "Conductivité Électrique (CE)": 1.2,
+    "Densité Apparente (Da)": 1.4
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Algérie",
+  "Conductivité Électrique (CE)": " > 20 mmhos/cm",
+  "Matière Organique (MO)": "relativement satisfaisant",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Tizi Ouzou",
+  "pH": 7.2,
+  "Calcaire Total": 35,
+  "Matière Organique (MO)": 12,
+  "Capacité d'Échange Cationique (CEC)": 15,
+  "Conductivité Électrique (CE)": 0.5,
+  "Densité Apparente (Da)": 1.3
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": [
+    "Naâma",
+    "El Bayadh",
+    "Laghouat",
+    "Djelfa",
+    "M’Sila",
+    "Batna",
+    "Khenchela",
+    "Tébessa",
+    "Tlemcen",
+    "Saïda",
+    "Sidi-Bel-Abbès",
+    "Tiaret",
+    "Médéa",
+    "Bouira",
+    "Bordj Bou Arreridj",
+    "Sétif",
+    "Oum El Bouaghi",
+    "Souk Ahras"
+  ]
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "",
+  "pH": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  json
+{
+  "location": [
+    "Djelfa",
+    "Laghouat",
+    "M'sila",
+    "Tiaret",
+    "Saida",
+    "Sidi Bel Abbes",
+    "Tlemcen",
+    "Naâma",
+    "El Bayadh"
+  ]
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": [
+    "Tlemcen",
+    "Sidi Bel Abbes",
+    "Saida",
+    "Naâma",
+    "El Baydh",
+    "Tiaret",
+    "Laghouat",
+    "Djelfa",
+    "M'Sila"
+  ],
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Wilaya de Boumerdes",
+  "pH%": 7.45,
+  "Calcaire Total (%)": 23.14,
+  "Matière Organique (MO) (%)": 2.85,
+  "Capacité d'Échange Cationique (CEC) (meq/100g)": 15.23,
+  "Conductivité Électrique (CE) (mS/cm)": 0.45,
+  "Densité Apparente (Da) (g/cm³)": 1.35
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Wilaya of Algeria (not specified)",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Oran",
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": 11.54,
+    "Matière Organique (MO)": 42.44,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": 5.68,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Algeria (wilaya not specified)",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matère Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Sud Oranais (SO) and Sud Algérois (SA), Algeria",
+  "pH": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Wilaya of Djelfa, Laghouat, M'sila, Tlemcen, Sidi Bel Abbès, Saida, El Bayadh, Naama, Tiaret",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": ["Wilaya of Oran", "Wilaya of Algiers"],
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Wilaya de Sétif, Algeria",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "Location": "Sud Oranais (SO) and Sud Algérois (SA)",
+  "pH%": Not found in the provided text,
+  "Calcaire Total": Not found in the provided text,
+  "Matière Organique (MO)": Not found in the provided text,
+  "Capacité d'Échange Cationique (CEC)": Not found in the provided text,
+  "Conductivité Électrique (CE)": Not found in the provided text,
+  "Densité Apparente (Da)": Not found in the provided text
+}
+this output is for the doc : corr87.txt here is his output 
+  
+{
+  "location": "Méditerranéen (possibly Algeria)"
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "Location": "Djelfa, Algeria",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "Location": "Saida, Algeria",
+  "Other Parameters": "No data available for pH, Calcaire Total, Matière Organique (MO), Capacité d'Échange Cationique (CEC), Conductivité Électrique (CE), and Densité Apparente (Da)"
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "Location": "Saida, Algeria",
+  "pH": 7.5,
+  "Calcaire Total": 25,
+  "Matière Organique (MO)": 3.2,
+  "Capacité d'Échange Cationique (CEC)": 20,
+  "Conductivité Électrique (CE)": 0.5,
+  "Densité Apparente (Da)": 1.5
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "location": "Sidi Ahmed, Wilaya of Saida, Algeria",
+  "pH": <value>,
+  "Calcaire Total": <value>,
+  "Matière Organique (MO)": <value>,
+  "Capacité d'Échange Cationique (CEC)": <value>,
+  "Conductivité Électrique (CE)": <value>,
+  "Densité Apparente (Da)": <value>
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "Location": "Wilaya de Saida, Algeria",
+  "Calcaire Total": "à dominance calcaire",
+  "pH%": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "location": "Lahouel, Algeria",
+  "parameters": {
+    "pH": [
+      8.11,
+      7.95,
+      0.868
+    ],
+    "Calcaire Total": [
+      11.85,
+      10.87,
+      null
+    ],
+    "Matière Organique (MO)": [
+      2.04,
+      2.41,
+      2.033
+    ],
+    "Capacité d'Échange Cationique (CEC)": [
+      null,
+      null,
+      null
+    ],
+    "Conductivité Électrique (CE)": [
+      1.13,
+      0.44,
+      null
+    ],
+    "Densité Apparente (Da)": [
+      null,
+      null,
+      null
+    ]
+  }
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "pH": 7.3,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null,
+  "Location": "Sidi Ahmed, Algeria"
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "Location": "Sidi Ahmed, Oran Province, Algeria",
+  "Parameters": []
+}
+this output is for the doc : corr88.txt here is his output 
+  json
+{
+  "Location": "Djelfa", 
+  "Parameters": {
+    "pH%": null, 
+    "Calcaire Total": null, 
+    "Matière Organique (MO)": null, 
+    "Capacité d'Échange Cationique (CEC)": null, 
+    "Conductivité Électrique (CE)": null, 
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "location": "Wilaya de Saida, Algeria",
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "location": "Djelfa, Algeria",
+  "parameters": {
+    "pH%": 7.5,
+    "Calcaire Total": 25,
+    "Matière Organique (MO)": 2.5,
+    "Capacité d'Échange Cationique (CEC)": 15,
+    "Conductivité Électrique (CE)": 3.2,
+    "Densité Apparente (Da)": 1.5
+  }
+}
+this output is for the doc : corr88.txt here is his output 
+  
+{
+  "location": "Wilaya of Ouargla, Algeria",
+  "parameters": {
+    "pH": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
+this output is for the doc : corr89.txt here is his output 
+  json
+{
+    "location": "Wilaya of Algeria (not specified which one)",
+    "parameters": {
+        "pH%": "not found",
+        "Calcaire Total": "not found",
+        "Matière Organique (MO)": "not found",
+        "Capacité d'Échange Cationique (CEC)": "not found",
+        "Conductivité Électrique (CE)": "not found",
+        "Densité Apparente (Da)": "not found"
+    }
+}
+this output is for the doc : corr89.txt here is his output 
+  
+{
+  "location": "Wilaya of Mostaganem, Algeria",
+  "parameters": {
+    "pH": 7.8,
+    "Calcaire Total": 450,
+    "Matère Organique (MO)": 1.2,
+    "Capacité d'Échange Cationique (CEC)": 15,
+    "Conductivité Électrique (CE)": 0.25,
+    "Densité Apparente (Da)": 1.35
+  }
+}
+this output is for the doc : corr89.txt here is his output 
+  
+{
+  "location": "Tizi Ouzou, Algeria",
+  "pH": 6.5,
+  "Calcire Total": 300,
+  "Matière Organique (MO)": 20,
+  "Capacité d'Échange Cationique (CEC)": 15,
+  "Conductivité Électrique (CE)": 0.5,
+  "Densité Apparente (Da)": 1.5
+}
+this output is for the doc : corr89.txt here is his output 
+  
+{
+  "location": "Sétif, Algeria",
+  "parameters": {
+    "pH%": ?, 
+    "Calcaire Total": ?, 
+    "Matière Organique (MO)": ?, 
+    "Capacité d'Échange Cationique (CEC)": ?, 
+    "Conductivité Électrique (CE)": ?, 
+    "Densité Apparente (Da)": ?
+  }
+}
+this output is for the doc : corr89.txt here is his output 
+  
+{
+  "Location": "Ain Sfia, Wilaya de Sétif, Algeria",
+  "pH%": null,
+  "Calcaire Total": null,
+  "Matière Organique (MO)": null,
+  "Capacité d'Échange Cationique (CEC)": null,
+  "Conductivité Électrique (CE)": null,
+  "Densité Apparente (Da)": null
+}
+this output is for the doc : corr89.txt here is his output 
+  
+[
+  {
+    "location": "wilaya of Mostaganem, Algeria",
+    "parameters": {
+      "pH": 7.6,
+      "Calcaire Total (%)": 13.1,
+      "Matière Organique (MO) (%)": 1.3,
+      "Capacité d'Échange Cationique (CEC) (cmol/kg)": 14.7,
+      "Conductivité Électrique (CE) (mS/cm)": 1.1,
+      "Densité Apparente (Da) (g/cm3)": 1.4
+    }
+  },
+  {
+    "location": "wilaya of Mostaganem, Algeria",
+    "parameters": {
+      "pH": 7.4,
+      "Calcaire Total (%)": 11.9,
+      "Matière Organique (MO) (%)": 1.1,
+      "Capacité d'Échange Cationique (CEC) (cmol/kg)": 13.9,
+      "Conductivité Électrique (CE) (mS/cm)": 0.9,
+      "Densité Apparente (Da) (g/cm3)": 1.3
+    }
+  },
+  {
+    "location": "wilaya of Mascara, Algeria",
+    "parameters": {
+      "pH": 7.2,
+      "Calcaire Total (%)": 10.5,
+      "Matière Organique (MO) (%)": 0.9,
+      "Capacité d'Échange Cationique (CEC) (cmol/kg)": 12.8,
+      "Conductivité Électrique (CE) (mS/cm)": 0.7,
+      "Densité Apparente (Da) (g/cm3)": 1.2
+    }
+  }
+]
+this output is for the doc : corr89.txt here is his output 
+  
+{
+  "location": "Wilaya of Algeria (not specified in the text)",
+  "parameters": {
+    "pH%": null,
+    "Calcaire Total": null,
+    "Matière Organique (MO)": null,
+    "Capacité d'Échange Cationique (CEC)": null,
+    "Conductivité Électrique (CE)": null,
+    "Densité Apparente (Da)": null
+  }
+}
